@@ -17,3 +17,5 @@ The dataset used in this project is sourced from Kaggle: [Book Recommendation Da
 
 ## Deployed Model:
 The deployed model can be accessed via Streamlit at: [Book Recommender System](https://book-recommender-system-by-elvina.streamlit.app/)
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/6feee5c1-35a1-4d76-b22f-ebe3c3e7147d">
+
